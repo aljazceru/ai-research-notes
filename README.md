@@ -12,4 +12,4 @@
 - [Building global machine-to-machine payments with lightning](https://www.youtube.com/watch?v=6u1G8QIDuNU)
 - [AI4ALL: Nostr Data Vending Machine Clients and Services Tutorial](https://www.youtube.com/watch?v=dAuLnNxU0Yg)
 - [AI4ALL: LangChain BitcoinTools Tutorial](https://www.youtube.com/watch?v=E5gS034IAwQ)
-
+- [ChatGPT | LLM | Prompt Engineering](https://github.com/koji/ChatGPT-LLM-PromptEngineering_repos) - list of resources
